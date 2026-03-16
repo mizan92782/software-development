@@ -43,6 +43,12 @@
 - [_Mastering Git_](<./books/git/Mastering%20Git%20Understanding%20Git%20Internals%20and%20Commands%20(Jawwad%20Ahmad%20Chris%20Belanger)%20(Z-Library).epub>)
 - [_Pro Git_](./books/git/progit.pdf)
 
+### [GitHub](./books/git/GitHub/)
+
+- [_GitHub Actions in Action_](<./books/git/GitHub/GitHub%20Actions%20in%20Action%20Continuous%20integration%20and%20delivery%20for%20DevOps%20(Michael%20Kaufmann,%20Rob%20Bos,%20Marcel%20de%20Vries)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_Hands-on GitHub Actions_](<./books/git/GitHub/Hands-on%20GitHub%20Actions%20Implement%20CICD%20with%20GitHub%20Action%20Workflows%20for%20Your%20Applications%20(Chaminda%20Chandrasekara,%20Pushpa%20Herath)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_Learning GitHub Actions_](<./books/git/GitHub/Learning%20GitHub%20Actions%20Automation%20and%20Integration%20of%20CICD%20with%20GitHub%20(Brent%20Laster)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+
 ## [Object-Oriented Design](./books/object-oriented%20design/)
 
 - [_Object-Oriented Analysis and Design_](<./books/object-oriented%20design/Object-oriented%20Analysis%20And%20Design%20Understanding%20System%20Development%20With%20UML%202.0%20(Mike%20ODocherty)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
