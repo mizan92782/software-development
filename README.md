@@ -33,7 +33,11 @@
 - [_Design Patterns in Modern C++_](<./books/design%20patterns/Design%20Patterns%20in%20Modern%20C++%20Reusable%20Approaches%20for%20Object-Oriented%20Software%20Design%20(Dmitri%20Nesteruk)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Design Patterns: Elements of Reusable Object-Oriented Software_](./books/design%20patterns/Design%20Patterns.pdf)
 - [_Head First Design Patterns_](<./books/design%20patterns/Head%20First%20Design%20Patterns%20Building%20Extensible%20and%20Maintainable%20Object-Oriented%20Software,%20Second%20Edition%20(Eric%20Freeman,%20Elisabeth%20Robson)%20(Z-Library).pdf>)
-- [_Learning Domain-Driven Design_](<./books/design%20patterns/Learning%20Domain-Driven%20Design%20Aligning%20Software%20Architecture%20and%20Business%20Strategy%20(Vladik%20Khononov)%20(Z-Library).pdf>)
+
+## [Domain-Driven Design](./books/domain-driven%20design/)
+
+- [_Implementing Domain-Driven Design_](<./books/domain-driven%20design/Implementing%20Domain-Driven%20Design%20(Vaughn%20Vernon)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_Learning Domain-Driven Design_](<./books/domain-driven%20design/Learning%20Domain-Driven%20Design%20Aligning%20Software%20Architecture%20and%20Business%20Strategy%20(Vladik%20Khononov)%20(Z-Library).pdf>)
 
 ## [Git](./books/git/)
 
